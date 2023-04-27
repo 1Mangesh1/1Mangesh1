@@ -1,7 +1,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mangesh-bide) 
-[![Codechef Icon](https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png)](https://www.codechef.com/users/sesrc2_501)
+[![Codechef Icon](https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png =32x32)](https://www.codechef.com/users/sesrc2_501)
+
 
 
 
