@@ -19,7 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=1Mangesh1&icon=2&color=9)](https://visitcount.itsvg.in)
+
+
 
 ![](https://komarev.com/ghpvc/?username=1Mangesh1&color=orange&base=420)
+---
