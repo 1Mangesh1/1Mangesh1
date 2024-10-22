@@ -22,5 +22,5 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=1Mangesh1&color=orange&base=420)
+![](https://komarev.com/ghpvc/?username=1Mangesh1&color=orange)
 ---
